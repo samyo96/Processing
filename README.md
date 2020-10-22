@@ -1,3 +1,3 @@
 # Processing | Lines & Intepretation Final Project
 
-Have to install Peasycam and Punktiert to run the project
+To run the code, install Peasycam and Punktiert plugin
